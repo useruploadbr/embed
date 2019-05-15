@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+</style>
+</head>
+<body>
+<script language="JavaScript">function TrocaBanner() { var x = 1; x = Math.floor(Math.random()*4); if(x == 1) {document.write('<a href="https://novinhasamadora.blogspot.com/go/banner/eutesalvo"><img src="https://2.bp.blogspot.com/-WuVbJFBwAuI/Wc6JuvKfA4I/AAAAAAAAGlk/bu6Vuo2TOCcF9yPJC4hYsAlItXj5sGHCwCLcBGAs/w200-h200-p-nu/unnamed%2B%25284%2529.jpg" /></a>'); return(0); } else { if(x == 2) {document.write('<a href="https://novinhasamadora.blogspot.com/go/link/geralinks"><img src="https://4.bp.blogspot.com/-2kfgslwHDwg/WYcWMDaxD5I/AAAAAAAAAl4/7s20rV3FiAAjdpHN2p7xGFHIYOoHEEk8ACLcBGAs/w250-h200/10_595.jpg" /></a>'); return(0); } else { if(x == 3) {document.write('<a href="http://vadiandonanet.com/link/novinha-timida-caiu-na-net-peladinha/"><img src="https://lh5.googleusercontent.com/proxy/4JHfX_B1zlKpuXuOtcYR9xJXcLU7ozS8JyOhT0vsD5sb8jYIDBV54logfbvMte4dHgquAgE_N399H0_TxQ3Wi-I3ID-U7OntQhbDVK2_H44bbgr5pGcia1porEQrqh-mdeVDJSsXyVMQRw=s0-d" /></a>'); return(0); } else {document.write('<a href="https://novinhasamadora.blogspot.com/Gostosa-de-anapolis"><img src="https://3.bp.blogspot.com/-3Ty3F-f9AeE/WX_YFCgsv4I/AAAAAAAAAr8/gTrzl1E8J38gnWmU3TUatHHKkanq5mtTwCEwYBhgL/w200-h200-p-nu/lR5pHrL.jpg" /></a>'); return(0); }}}} </script><script>TrocaBanner()</script>
+</body>
+</html>
